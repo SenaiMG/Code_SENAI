@@ -1,0 +1,6 @@
+para iniciar o python
+de o comando python --version para verificar a versão do seu python se der erro ele ainda não está instalado.
+o python pode ser usado compilado e interpretado os arquivos compilados são .pyc e os interpretados são .py
+em caso de utilização no terminal ao final dos comandos chame o metodo exit() para sair do interpretador
+
+para executar o arquivo python que você fez utilize o nome python e o nome do seu arquivo que ele será executado
