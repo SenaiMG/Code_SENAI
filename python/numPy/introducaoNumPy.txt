@@ -1,0 +1,58 @@
+O que é NumPy?
+NumPy é uma biblioteca Python usada para trabalhar com arrays.
+
+Também possui funções para trabalhar no domínio da álgebra linear, transformada de Fourier e matrizes.
+
+O NumPy foi criado em 2005 por Travis Oliphant. É um projeto de código aberto e você pode usá-lo livremente.
+
+NumPy significa Python Numérico.
+
+Por que usar o NumPy?
+Em Python, temos listas que servem ao propósito de arrays, mas são lentas para processar.
+
+O NumPy visa fornecer um objeto de matriz até 50 vezes mais rápido que as listas tradicionais do Python.
+
+O objeto array no NumPy é chamado ndarray, ele fornece muitas funções de suporte que facilitam ndarraymuito o trabalho.
+
+Arrays são muito usados ​​em ciência de dados, onde velocidade e recursos são muito importantes.
+
+Data Science: é um ramo da ciência da computação onde estudamos como armazenar, usar e analisar dados para derivar informações deles.
+
+Por que o NumPy é mais rápido que as listas?
+As matrizes NumPy são armazenadas em um local contínuo na memória, ao contrário das listas, para que os processos possam acessá-las e manipulá-las com muita eficiência.
+
+Esse comportamento é chamado de localidade de referência em ciência da computação.
+
+Esta é a principal razão pela qual o NumPy é mais rápido que as listas. Também é otimizado para trabalhar com as arquiteturas de CPU mais recentes.
+
+Em qual idioma o NumPy está escrito?
+NumPy é uma biblioteca Python e é escrita parcialmente em Python, mas a maioria das partes que requerem computação rápida são escritas em C ou C++.
+
+Onde está a base de código NumPy?
+O código-fonte do NumPy está localizado neste repositório github https://github.com/numpy/numpy
+
+github: permite que muitas pessoas trabalhem na mesma base de código.
+
+
+Instalação do NumPy
+Se você já possui o Python e o PIP instalados em um sistema, a instalação do NumPy é muito fácil.
+
+Instale-o usando este comando:
+
+C:\Users\Your Name>pip install numpy
+Se este comando falhar, use uma distribuição python que já tenha o NumPy instalado, como Anaconda, Spyder etc.
+
+Importar NumPy
+Depois que o NumPy estiver instalado, importe-o em seus aplicativos adicionando a importpalavra-chave:
+
+import numpy
+Agora o NumPy está importado e pronto para uso.
+
+NumPy como np
+NumPy geralmente é importado sob o np alias.
+
+alias: Em Python, alias é um nome alternativo para se referir à mesma coisa.
+
+Crie um alias com a palavra- aschave durante a importação:
+
+import numpy as np
