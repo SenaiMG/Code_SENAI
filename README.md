@@ -27,7 +27,7 @@ Esse repositório foi criado pelo professor igor para os alunos do sesi/senai de
 
 ```bash
 # Fork this repository
-$ realize um fork no https://github.com/IMNascimento/SENAI.git
+$ realizar um fork no https://github.com/IMNascimento/SENAI.git
 
 
 ```
